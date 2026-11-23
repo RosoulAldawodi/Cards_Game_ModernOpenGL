@@ -1,0 +1,122 @@
+[
+{
+  "directory": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_C.rsp -g -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\glad.c.obj -c D:\\My_Projects\\OpenGLProjects\\lecture4_OpenGL_code\\OpenGL.SharedModule\\src\\glad.c",
+  "file": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/OpenGL.SharedModule/src/glad.c",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/glad.c.obj"
+},
+{
+  "directory": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\stb_image.cpp.obj -c D:\\My_Projects\\OpenGLProjects\\lecture4_OpenGL_code\\OpenGL.SharedModule\\src\\stb_image.cpp",
+  "file": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/OpenGL.SharedModule/src/stb_image.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/stb_image.cpp.obj"
+},
+{
+  "directory": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\imgui\\imgui.cpp.obj -c D:\\My_Projects\\OpenGLProjects\\lecture4_OpenGL_code\\OpenGL.SharedModule\\src\\imgui\\imgui.cpp",
+  "file": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/OpenGL.SharedModule/src/imgui/imgui.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/imgui/imgui.cpp.obj"
+},
+{
+  "directory": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\imgui\\imgui_demo.cpp.obj -c D:\\My_Projects\\OpenGLProjects\\lecture4_OpenGL_code\\OpenGL.SharedModule\\src\\imgui\\imgui_demo.cpp",
+  "file": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/OpenGL.SharedModule/src/imgui/imgui_demo.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/imgui/imgui_demo.cpp.obj"
+},
+{
+  "directory": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\imgui\\imgui_draw.cpp.obj -c D:\\My_Projects\\OpenGLProjects\\lecture4_OpenGL_code\\OpenGL.SharedModule\\src\\imgui\\imgui_draw.cpp",
+  "file": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/OpenGL.SharedModule/src/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/imgui/imgui_draw.cpp.obj"
+},
+{
+  "directory": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\imgui\\imgui_impl_glfw.cpp.obj -c D:\\My_Projects\\OpenGLProjects\\lecture4_OpenGL_code\\OpenGL.SharedModule\\src\\imgui\\imgui_impl_glfw.cpp",
+  "file": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/OpenGL.SharedModule/src/imgui/imgui_impl_glfw.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/imgui/imgui_impl_glfw.cpp.obj"
+},
+{
+  "directory": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\imgui\\imgui_impl_opengl3.cpp.obj -c D:\\My_Projects\\OpenGLProjects\\lecture4_OpenGL_code\\OpenGL.SharedModule\\src\\imgui\\imgui_impl_opengl3.cpp",
+  "file": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/OpenGL.SharedModule/src/imgui/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/imgui/imgui_impl_opengl3.cpp.obj"
+},
+{
+  "directory": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\imgui\\imgui_stdlib.cpp.obj -c D:\\My_Projects\\OpenGLProjects\\lecture4_OpenGL_code\\OpenGL.SharedModule\\src\\imgui\\imgui_stdlib.cpp",
+  "file": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/OpenGL.SharedModule/src/imgui/imgui_stdlib.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/imgui/imgui_stdlib.cpp.obj"
+},
+{
+  "directory": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\imgui\\imgui_tables.cpp.obj -c D:\\My_Projects\\OpenGLProjects\\lecture4_OpenGL_code\\OpenGL.SharedModule\\src\\imgui\\imgui_tables.cpp",
+  "file": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/OpenGL.SharedModule/src/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/imgui/imgui_tables.cpp.obj"
+},
+{
+  "directory": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\imgui\\imgui_widgets.cpp.obj -c D:\\My_Projects\\OpenGLProjects\\lecture4_OpenGL_code\\OpenGL.SharedModule\\src\\imgui\\imgui_widgets.cpp",
+  "file": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/OpenGL.SharedModule/src/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/imgui/imgui_widgets.cpp.obj"
+},
+{
+  "directory": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\implementation\\Drawer.cpp.obj -c D:\\My_Projects\\OpenGLProjects\\lecture4_OpenGL_code\\OpenGL.SharedModule\\src\\implementation\\Drawer.cpp",
+  "file": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/OpenGL.SharedModule/src/implementation/Drawer.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/implementation/Drawer.cpp.obj"
+},
+{
+  "directory": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\implementation\\OpenGlShape.cpp.obj -c D:\\My_Projects\\OpenGLProjects\\lecture4_OpenGL_code\\OpenGL.SharedModule\\src\\implementation\\OpenGlShape.cpp",
+  "file": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/OpenGL.SharedModule/src/implementation/OpenGlShape.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/implementation/OpenGlShape.cpp.obj"
+},
+{
+  "directory": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\implementation\\SharedModule.cpp.obj -c D:\\My_Projects\\OpenGLProjects\\lecture4_OpenGL_code\\OpenGL.SharedModule\\src\\implementation\\SharedModule.cpp",
+  "file": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/OpenGL.SharedModule/src/implementation/SharedModule.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/implementation/SharedModule.cpp.obj"
+},
+{
+  "directory": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -x c++ -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\abstraction\\OpenGlShape.hpp.obj -c D:\\My_Projects\\OpenGLProjects\\lecture4_OpenGL_code\\OpenGL.SharedModule\\src\\abstraction\\OpenGlShape.hpp",
+  "file": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/OpenGL.SharedModule/src/abstraction/OpenGlShape.hpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/abstraction/OpenGlShape.hpp.obj"
+},
+{
+  "directory": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -x c++ -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\abstraction\\Drawer.hpp.obj -c D:\\My_Projects\\OpenGLProjects\\lecture4_OpenGL_code\\OpenGL.SharedModule\\src\\abstraction\\Drawer.hpp",
+  "file": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/OpenGL.SharedModule/src/abstraction/Drawer.hpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/abstraction/Drawer.hpp.obj"
+},
+{
+  "directory": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -x c++ -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\abstraction\\SharedModule.hpp.obj -c D:\\My_Projects\\OpenGLProjects\\lecture4_OpenGL_code\\OpenGL.SharedModule\\src\\abstraction\\SharedModule.hpp",
+  "file": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/OpenGL.SharedModule/src/abstraction/SharedModule.hpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/abstraction/SharedModule.hpp.obj"
+},
+{
+  "directory": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\Main.cpp.obj -c D:\\My_Projects\\OpenGLProjects\\lecture4_OpenGL_code\\GLProject\\Main.cpp",
+  "file": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/GLProject/Main.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/Main.cpp.obj"
+},
+{
+  "directory": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\Polygon.cpp.obj -c D:\\My_Projects\\OpenGLProjects\\lecture4_OpenGL_code\\GLProject\\Polygon.cpp",
+  "file": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/GLProject/Polygon.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/Polygon.cpp.obj"
+},
+{
+  "directory": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\PolygonWithTexture.cpp.obj -c D:\\My_Projects\\OpenGLProjects\\lecture4_OpenGL_code\\GLProject\\PolygonWithTexture.cpp",
+  "file": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/GLProject/PolygonWithTexture.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/PolygonWithTexture.cpp.obj"
+},
+{
+  "directory": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build",
+  "command": "c:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles\\GLProject.dir\\includes_C.rsp -g -o CMakeFiles\\GLProject.dir\\OpenGL.SharedModule\\src\\glad.c.obj -c D:\\My_Projects\\OpenGLProjects\\lecture4_OpenGL_code\\OpenGL.SharedModule\\src\\glad.c",
+  "file": "D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/OpenGL.SharedModule/src/glad.c",
+  "output": "CMakeFiles/GLProject.dir/OpenGL.SharedModule/src/glad.c.obj"
+}
+]
