@@ -1,4 +1,0 @@
-D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build/CMakeFiles/OpenGL.SharedModule.dir
-D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build/CMakeFiles/GLProject.dir
-D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build/CMakeFiles/edit_cache.dir
-D:/My_Projects/OpenGLProjects/lecture4_OpenGL_code/build/CMakeFiles/rebuild_cache.dir
